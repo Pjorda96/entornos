@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item1><server>Default PHP Web Server</server><mapper></mapper></item1></pathMappers>
+org.eclipse.php.debug.core.xdebugDebuggerSettingsProvider=<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-server-0a6470a1-800f-4c76-ae69-0022d04b4bc6</ownerId><proxyIdeKey>ECLIPSE_DBGP_xxx</proxyIdeKey><proxyAddress></proxyAddress></settings>\u0005<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-server-00b86352-a3c7-4e50-b453-4b0303bd23a3</ownerId><proxyIdeKey>ECLIPSE_DBGP_xxx</proxyIdeKey><proxyAddress></proxyAddress></settings>
+org.eclipse.php.debug.core.zendDebuggerSettingsProvider=<settings><clientIp>192.168.56.1,192.168.0.165,127.0.0.1</clientIp><clientPort>10137</clientPort><ownerId>php-server-0a6470a1-800f-4c76-ae69-0022d04b4bc6</ownerId><responseTimeout>60000</responseTimeout></settings>\u0005<settings><clientIp>192.168.56.1,192.168.0.165,127.0.0.1</clientIp><clientPort>10137</clientPort><ownerId>php-server-00b86352-a3c7-4e50-b453-4b0303bd23a3</ownerId><responseTimeout>60000</responseTimeout></settings>
+org.eclipse.php.debug.coreoutput_encoding=UTF-8
+org.eclipse.php.debug.corestop_at_first_line_string=true
+org.eclipse.php.debug.coretransfer_encoding=UTF-8
