@@ -48,4 +48,9 @@ $fac=9;
 $n2=1;
 for ($cont=2;$cont<=$fac;$cont++) $n2=$n2*$cont;
 echo $n2 . "<br>";
+
+//Act8
+//var_dump()
+if (var_dump($fac)==int) echo"es posible";
+else echo "no es posible";
 ?>
