@@ -11,6 +11,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1507730665121"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_Fbescq6NEeeNfNxZcO7hqw" selectedElement="_FbfTgK6NEeeNfNxZcO7hqw" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_FbfTgK6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="__QiqkLQmEeepU_DaecWnAw">
         <children xsi:type="advanced:Perspective" xmi:id="_FlY2Ya6NEeeNfNxZcO7hqw" elementId="org.eclipse.jdt.ui.JavaPerspective.&lt;Java>" selectedElement="_FlY2Yq6NEeeNfNxZcO7hqw" label="&lt;Java>" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -173,10 +174,10 @@
           <tags>persp.actionSet:org.phpsrc.eclipse.pti.tools.phpunit.ui.actionSet</tags>
           <tags>persp.actionSet:org.phpsrc.eclipse.pti.tools.codesniffer.ui.actionSet</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="__QiqkbQmEeepU_DaecWnAw" selectedElement="__QiqlLQmEeepU_DaecWnAw" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="__QiqkrQmEeepU_DaecWnAw" elementId="topLeft" containerData="2008" selectedElement="__Qiqk7QmEeepU_DaecWnAw">
+            <children xsi:type="basic:PartStack" xmi:id="__QiqkrQmEeepU_DaecWnAw" elementId="topLeft" containerData="1038" selectedElement="__Qiqk7QmEeepU_DaecWnAw">
               <children xsi:type="advanced:Placeholder" xmi:id="__Qiqk7QmEeepU_DaecWnAw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_FlPFYa6NEeeNfNxZcO7hqw"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="__QiqlLQmEeepU_DaecWnAw" containerData="7992" selectedElement="__QiqlbQmEeepU_DaecWnAw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="__QiqlLQmEeepU_DaecWnAw" containerData="8962" selectedElement="__QiqlbQmEeepU_DaecWnAw">
               <children xsi:type="basic:PartSashContainer" xmi:id="__QiqlbQmEeepU_DaecWnAw" containerData="7926" selectedElement="__QiqlrQmEeepU_DaecWnAw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="__QiqlrQmEeepU_DaecWnAw" elementId="org.eclipse.ui.editorss" containerData="8027" ref="_FlI-wK6NEeeNfNxZcO7hqw"/>
                 <children xsi:type="basic:PartStack" xmi:id="__Qiql7QmEeepU_DaecWnAw" elementId="right" containerData="1973" selectedElement="__QiqmLQmEeepU_DaecWnAw">
@@ -234,7 +235,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_TlxJMLQlEee_bJhvNGUWCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Actividad2.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;Actividad2.php&quot; partName=&quot;Actividad2.php&quot; title=&quot;Actividad2.php&quot; tooltip=&quot;D:\xampp\htdocs\daw1\Entornos\Actividad2.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/D:/xampp/htdocs/daw1/Entornos/Actividad2.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1075&quot; selectionTopPixel=&quot;400&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;Actividad2.php&quot; partName=&quot;Actividad2.php&quot; title=&quot;Actividad2.php&quot; tooltip=&quot;D:\xampp\htdocs\daw1\Entornos\Actividad2.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/D:/xampp/htdocs/daw1/Entornos/Actividad2.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1125&quot; selectionTopPixel=&quot;162&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.php.editor</tags>
           <tags>removeOnHide</tags>
@@ -270,7 +271,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_FlPFYa6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1507730665121&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;daw1&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="__Q_WgLQmEeepU_DaecWnAw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -418,7 +419,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FdEn4K6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_blppgLQoEeeSv7O8VdgHMw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_FKJFJK6NEeeNfNxZcO7hqw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_72998LjMEeeYMoB8A1zmPQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_FKJFJK6NEeeNfNxZcO7hqw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FdEn4a6NEeeNfNxZcO7hqw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -427,7 +428,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_FmYU4K6NEeeNfNxZcO7hqw" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_Fl5MsK6NEeeNfNxZcO7hqw" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_Fl5MsK6NEeeNfNxZcO7hqw" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FmPK8K6NEeeNfNxZcO7hqw" elementId="org.eclipse.search.searchActionSet">
@@ -454,7 +455,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FdFO8q6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_blq3o7QoEeeSv7O8VdgHMw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_FKId-66NEeeNfNxZcO7hqw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_72_zILjMEeeYMoB8A1zmPQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_FKId-66NEeeNfNxZcO7hqw"/>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_FiZz0K6NEeeNfNxZcO7hqw" elementId="PerspectiveSwitcher" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher">
         <tags>Draggable</tags>
@@ -3211,7 +3212,7 @@
   </addons>
   <addons xmi:id="_FJmSUq6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_FJu1IK6NEeeNfNxZcO7hqw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_7obLobjMEeeYMoB8A1zmPQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_FKEzYK6NEeeNfNxZcO7hqw" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="_FKEzYa6NEeeNfNxZcO7hqw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>

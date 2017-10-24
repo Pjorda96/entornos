@@ -51,6 +51,7 @@ echo $n2 . "<br>";
 
 //Act8
 //var_dump()
-if (var_dump($fac)==int) echo"es posible";
-else echo "no es posible";
+$problema="Hola";
+if (var_dump($problema)=="string") echo"correcto";
+else echo "incorrecto";
 ?>
