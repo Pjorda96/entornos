@@ -27,8 +27,8 @@ $num1=1;
 $num2=2;
 $num3=3;
 if ($num1>$num2 && $num1>$num3) echo ("num1 es el mayor y es " . $num1) . "<br>";
-else if ($num2>$num1 && $num2>$num3) echo ("num2 es el mayor y es " . $num2) . "<br>";
-else if ($num3>$num2 && $num3>$num1) echo ("num3 es el mayor y es " . $num3) . "<br>";
+else if ($num2>$num1) echo ("num2 es el mayor y es " . $num2) . "<br>";
+else if ($num3>$num2) echo ("num3 es el mayor y es " . $num3) . "<br>";
 
 //Act5
 //contador
