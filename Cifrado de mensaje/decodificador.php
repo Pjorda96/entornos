@@ -19,17 +19,5 @@ while($i>-1){
   $fraseCodificada=$fraseCodificada . substr($fraseTemp,$i,1);
   $i=$i-1;
 }
+echo $fraseCodificada;
 ?>
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Descifrar mensaje</title>
-  </head>
-  <body>
-    <?php
-    echo $fraseCodificada;
-    ?>
-  </body>
-</html>
