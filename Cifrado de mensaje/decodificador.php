@@ -1,5 +1,5 @@
 <?php
-$frase="Los catalanes hacen cosas.";
+$frase="s.sacon cehas nelatacas Lo";
 
 $fraseTemp="";
 $fraseCodificada="";
